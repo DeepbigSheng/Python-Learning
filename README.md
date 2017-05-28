@@ -1,7 +1,7 @@
 # Python-Learning
-This is a journey of my Python 3 learning
-What you need to know shows below:
-Python 3.x Environment Install on Linux
+This is a journey of my Python 3 learning<br/>
+What you need to know shows below:<br/>
+Python 3.x Environment Install on Linux<br/>
   1. 源代码下载：wget https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tar.xz
   2. 解压文件：tar xJf Python-3.6.1.tar.xz  #J为xz格式的解压
   3. 配置前安装必要的库，以避免安装后的Python出现的一些问题：
