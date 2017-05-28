@@ -18,5 +18,5 @@ Python 3.x Environment Install on Linux
     Type "help", "copyright", "credits" or "license" for more information.<br/>
     >>>
 
-Python Modules Files Install
-  1. 将.py后缀的模块文件放入到/usr/lib/python2.x(3.x)/site-packages/目录下即可
+Python Modules Files Install<br/>
+  1. 将.py后缀的模块文件放入到/usr/lib/python2.x(3.x)/site-packages/目录下即可
