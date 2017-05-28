@@ -12,11 +12,11 @@ Python 3.x Environment Install on Linux
   6. 编译：make
   7. 安装：make install
   8. 使用python3
-  [root@localhost Python-3.6.1]# python3
-  Python 3.6.1 (default, May 14 2017, 04:57:23) 
-  [GCC 4.8.5 20150623 (Red Hat 4.8.5-11)] on linux
-  Type "help", "copyright", "credits" or "license" for more information.
-  >>>
+    [root@localhost Python-3.6.1]# python3<br/>
+    Python 3.6.1 (default, May 14 2017, 04:57:23)<br/>
+    [GCC 4.8.5 20150623 (Red Hat 4.8.5-11)] on linux<br/>
+    Type "help", "copyright", "credits" or "license" for more information.<br/>
+    >>>
 
-二、 Python Modules Files Install
+Python Modules Files Install
   1. 将.py后缀的模块文件放入到/usr/lib/python2.x(3.x)/site-packages/目录下即可
