@@ -6,9 +6,8 @@ Python 3.x Environment Install on Linux
 	a. 源代码下载：wget https://www.python.org/ftp/python/3.6.1/Python-3.6.1.tar.xz
 	b. 解压文件：tar xJf Python-3.6.1.tar.xz  #J为xz格式的解压
 	c. 配置前安装必要的库，以避免安装后的Python出现的一些问题：
-	yum install readline-devel.x86_64
-	（或直接yum install readline-devel）
-	
+		yum install readline-devel.x86_64
+		（或直接yum install readline-devel）
 	d. 切换到Python-3.6.1目录下：cd Python-3.6.1
 	e. 配置：./configure
 	f. 编译：make
